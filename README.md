@@ -9,3 +9,4 @@ Color changing LEDS depending on time of day/night.
 Accessible statistics from anywhere via ssl.
 
 TODO:
+Random "Weather" Days
